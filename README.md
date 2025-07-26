@@ -98,7 +98,7 @@ This project is a complete data analysis and business intelligence solution for 
 Feel free to connect if you have feedback or suggestions!
 
 **Saurabh Singh**  
-📧 saurabh.data.ai@gmail.com  
+📧 singhsaurabh34907@gmail.com  
 🔗 [LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com)
 
 ---
